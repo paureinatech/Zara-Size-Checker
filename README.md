@@ -12,7 +12,7 @@ Antes de ejecutar el script, asegúrate de tener instalado lo siguiente en tu si
 
 ## Instalación
 
-1. **Clona el repositorio:**
+1. **Clona el repositorio (o descarga únicamente el archivo python):**
 
     ```
     git clone [URL_DEL_REPOSITORIO]
