@@ -43,7 +43,7 @@ try:
                 winsound.PlaySound("SystemHand", winsound.SND_ALIAS)
 
         # Se duerme al proceso 60 segundos           
-        time.sleep(40)
+        time.sleep(30)
 
         # Se actualiza la página
         print("------- Actualizando web -------- \n")
