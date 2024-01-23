@@ -1,13 +1,14 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
 import winsound
 
 import time
 
 # Se inicia la ventana del navegador
-driver = webdriver.Chrome()
-
+driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
 # Se escribe el link al artículo
 driver.get('https://www.zara.com/es/es/plumifero-acolchado-semilargo-capucha-p08073203.html?v1=267165715&origin=shopcart')
 
