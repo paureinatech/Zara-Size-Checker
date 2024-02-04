@@ -9,8 +9,16 @@ import time
 
 # Se inicia la ventana del navegador
 driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+
 # Se escribe el link al artículo
-driver.get('https://www.zara.com/es/es/plumifero-acolchado-semilargo-capucha-p08073203.html?v1=267165715&origin=shopcart')
+driver.get('https://www.zara.com/es/es/share/-p05427407.html?v1=327249367&utm_campaign=productShare&utm_medium=mobile_sharing_iOS&utm_source=red_social_movil')
+
+# Se escribe la talla que se quiere
+talla_elegida = 'm'
+
+# Se almacena el id de la talla
+id_talla = {'xs': 0, 's': 1, 'm': 2, 'l': 3, 'xl': 4, 'xxl':5}
+num = id_talla.get(talla_elegida.lower(), "Entrada no válida")
 
 try:
     while 1:
@@ -20,31 +28,23 @@ try:
         # Se traen los bloques de elementos li que son los de las tallas
         li_elements = ul_element.find_elements(By.TAG_NAME, 'li')
         
-        # Se guarda el segundo elemento (1) que es la talla S
-        talla_s = li_elements[1]
+        # Se guarda el elemento que corresponda a la talla seleccionada
+        talla = li_elements[num]
 
         # Se guarda el atributo <class> que indica si está fuera de stock o no
-        class_name = talla_s.get_attribute('class')
+        class_name = talla.get_attribute('class')
         
         # Si no aparece el texto out-of-stock significa que hay talla
         if "out-of-stock" not in class_name:
             for i in range(10):
                 # Imprime 10 veces el texto
-                print("TALLA S DISPONIBLE")
+                print("TALLA " + talla_elegida.upper() + " DISPONIBLE")
 
                 # Se reproducen 10 pitidos
                 winsound.PlaySound("SystemHand", winsound.SND_ALIAS)
-
-        # Se realiza lo mismo para talla M
-        talla_m = li_elements[2]
-        class_name2 = talla_m.get_attribute('class')
-        if "out-of-stock" not in class_name2:
-            for i in range(10):
-                print("TALLA M DISPONIBLE")
-                winsound.PlaySound("SystemHand", winsound.SND_ALIAS)
-
-        # Se duerme al proceso 60 segundos           
-        time.sleep(30)
+        else:
+            # Se duerme al proceso x segundos           
+            time.sleep(20)
 
         # Se actualiza la página
         print("------- Actualizando web -------- \n")
@@ -53,6 +53,9 @@ try:
 
 except NoSuchElementException as e:
     print("No se encontró el elemento " + str(e))
+
+#except Exception as e:
+#   print("Error: " + str(e))
 
 # Cierra el navegador
 driver.quit()
