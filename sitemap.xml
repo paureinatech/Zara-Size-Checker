@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/issues</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/pulls</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/actions</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/projects?query=is%3Aopen</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/security</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/releases</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/compare</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels?sort=name-asc</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels?sort=name-desc</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels?sort=count-desc</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels?sort=count-asc</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels/bug</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels/documentation</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels/duplicate</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels/enhancement</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels/good%20first%20issue</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels/help%20wanted</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels/invalid</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels/question</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/labels/wontfix</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?state=open</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?state=closed</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/paureinatech/Zara-Size-Checker/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-02-04T19:35:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
