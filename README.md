@@ -54,8 +54,8 @@ Las contribuciones son siempre bienvenidas. Si tienes alguna sugerencia o quiere
 
 Siéntete libre de preguntarme a través de mis redes sociales:
 
-- [LinkedIn](https://www.linkedin.com/in/paula-iglesias-reina/) - LinkedIn
-- [TikTok](https://www.tiktok.com/@paureinatech) - TikTok
+- LinkedIn - [Paula Iglesias Reina](https://www.linkedin.com/in/paula-iglesias-reina/)
+- TikTok - [@paureinatech](https://www.tiktok.com/@paureinatech)
 
 ---
 > **Nota:** Este script está destinado únicamente a fines educativos. Asegúrate de respetar las políticas de Zara y no utilizar el script para actividades que puedan considerarse abuso o violación de los términos de servicio de la tienda.
