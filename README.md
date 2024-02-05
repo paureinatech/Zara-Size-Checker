@@ -34,11 +34,11 @@ Para ejecutar el script, sigue estos pasos:
 
 1. **Configura el script:**
 
-    Abre el archivo `check-size-of-product-zara.py` y configura las variables necesarias, como la URL del producto en la línea 12 y la talla que estás buscando.
+    Abre el archivo `check-size-of-product-zara.py` y configura las variables necesarias, como la URL del producto en la línea 14 y la talla que estás buscando en la línea 17.
 
 2. **Ejecuta el script:**
 
-    En la terminal, navega al directorio del proyecto y ejecuta el script con el siguiente comando:
+    En la terminal, navega al directorio del proyecto (Abre cmd, escribe "cd Downloads") y ejecuta el script con el siguiente comando:
 
     ```
     python check-size-of-product-zara.py
@@ -50,6 +50,12 @@ El script realizará la comprobación y te notificará cuando haya disponibilida
 
 Las contribuciones son siempre bienvenidas. Si tienes alguna sugerencia o quieres contribuir al proyecto, siéntete libre de hacerlo.
 
+## Dudas
+
+Siéntete libre de preguntarme a través de mis redes sociales:
+
+- [![LinkedIn](https://i.imgur.com/zAdh5EH.png)](https://www.linkedin.com/in/paula-iglesias-reina/) - LinkedIn
+- [![TikTok](https://i.imgur.com/VygdIHd.png)](https://www.tiktok.com/@paureinatech) - TikTok
 
 ---
 > **Nota:** Este script está destinado únicamente a fines educativos. Asegúrate de respetar las políticas de Zara y no utilizar el script para actividades que puedan considerarse abuso o violación de los términos de servicio de la tienda.
